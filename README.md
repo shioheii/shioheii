@@ -1,6 +1,5 @@
-- Bruno Shiohei
-- Atualmente cursando técnico em informática 1/3
-- Algoritmo e C
+Oi, eu sou o Bruno Shiohei !
+🖥️ Estudante de informática, buscando mais conhecimentos e avanços na área.
 
 <!---
 shioheii/shioheii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
