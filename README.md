@@ -1,6 +1,7 @@
 # Oi, eu sou o Bruno Shiohei!
 
 🖥️ Estudante de informática, buscando mais conhecimentos e avanços na área.
+
 [Teste, abrir meu perfil](https://github.com/shioheii)
 
 <!---
