@@ -3,7 +3,8 @@
 🖥️ Estudante de informática, buscando mais conhecimentos e avanços na área.
 
 ### Projetos (em breve)
-**- Aqui irei compartilhar alguns projetos do meu primeiro ano no curso técnico\n
+**- Aqui irei compartilhar alguns projetos do meu primeiro ano no curso técnico
+
 **- Linguagem C
 
 <!---
