@@ -1,6 +1,6 @@
 # Oi, eu sou o Bruno Shiohei!
 
-🖥️ Estudante de informática, buscando mais conhecimentos e avanços na área.
+🖥️ 'Estudante de informática, buscando mais conhecimentos e avanços na área.'
 
 <!---
 shioheii/shioheii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
