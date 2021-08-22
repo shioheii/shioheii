@@ -1,4 +1,4 @@
-# Oi, eu sou o Bruno Shiohei 👍
+# Oi, eu sou Bruno Shiohei 👍
 
 🖥️ Cursando técnico em informática, buscando mais conhecimentos e avanços na área.
 
