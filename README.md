@@ -1,6 +1,6 @@
 # Oi, eu sou o Bruno Shiohei 👍
 
-🖥️ Estudante de informática, buscando mais conhecimentos e avanços na área.
+🖥️ Cursando técnico em informática, buscando mais conhecimentos e avanços na área.
 
 ## Projetos (em breve)
 - Aqui irei compartilhar abaixo alguns projetos do meu primeiro ano no curso técnico
