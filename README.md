@@ -7,6 +7,8 @@
 - Language used: C++
 - 1st project: [Day of the week](https://github.com/shioheii/projects-1st-year/blob/main/Day%20of%20the%20week.cpp)
 - 2nd project: [Vestibular](https://github.com/shioheii/projects-1st-year/blob/main/Vestibular.cpp)
+- 3rd project: (coming soon)
+- 4th project: (coming soon)
 
 <!---
 shioheii/shioheii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
