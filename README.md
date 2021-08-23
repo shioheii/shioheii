@@ -4,7 +4,7 @@
 
 ## Projects
 - Here I will share some projects from my first year in the technical course below.
-- C language
+- Language used: C++
 - 1st project: (coming soon)
 
 <!---
