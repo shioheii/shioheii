@@ -3,7 +3,7 @@
 🖥️ Studying computer technician, seeking more knowledge and advances in the area.
 
 ## Projects
-- In my first year of the course I will have to develop 4 projects, and I will share them on the following link: [Projects - First Year]()
+- In my first year of the course I will have to develop 4 projects, and I will share them on the following link: [Projects - First Year](https://github.com/shioheii/projects-1st-year)
 - At README.md you will find more detailed information about each project, and a link that will send you to the code of the same.
 - Language used: C++
 
