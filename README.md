@@ -7,6 +7,10 @@
 - At README.md you will find more detailed information about each project, and a link that will send you to the code of the same.
 - Language used: C++
 
+## Extra activities
+- Logic challenge (more details soon, with appropriate links)
+- My CRUD (more details soon, with appropriate links)
+
 <!---
 shioheii/shioheii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
