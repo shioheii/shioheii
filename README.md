@@ -8,7 +8,7 @@
 - Language used: C++
 
 ## Extra activities
-- Logic challenge (more details soon, with appropriate links)
+- [Logic challenge](https://github.com/shioheii/Desafio-de-Logica) - You can find more details at README.md. 
 - My CRUD (more details soon, with appropriate links)
 
 <!---
