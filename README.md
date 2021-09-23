@@ -1,4 +1,4 @@
-# Hi, I'm Bruno Shiohei 👍
+# Hi, I'm Bruno Shiohei 😎
 
 🖥️ Studying computer technician, seeking more knowledge and advances in the area.
 
