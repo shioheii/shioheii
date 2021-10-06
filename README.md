@@ -1,4 +1,7 @@
 # Hi, I'm Bruno Shiohei 😎
+<a alt="Bruno Shiohei Kinoshita do Nascimento Linkedin" href="https://www.linkedin.com/in/bruno-shiohei-24b27621a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Shiohei%20Kinoshita%20do%20Nascimento-blue?logo=linkedin">
+</a><br />
 
 🖥️ Studying computer technician, seeking more knowledge and advances in the area.
 
