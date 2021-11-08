@@ -1,5 +1,5 @@
 # Hi, I'm Bruno Shiohei 😎
-<a alt="Bruno Shiohei Kinoshita do Nascimento Linkedin" href="https://www.linkedin.com/in/bruno-shiohei-24b27621a/">
+<a alt="Bruno Shiohei Kinoshita do Nascimento Linkedin" href="https://www.linkedin.com/in/bruno-shiohei/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
 </a><br />
 
