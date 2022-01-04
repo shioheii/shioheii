@@ -14,7 +14,7 @@
 - [e-diaristas](https://github.com/shioheii/ediaristas) - You can find more details at README.md.
 - [Shioheify](https://github.com/shioheii/Shioheify) - You can find more details at README.md.
 - [Logic challenge](https://github.com/shioheii/Desafio-de-Logica) - You can find more details at README.md. 
-- My CRUD (more details soon, with appropriate links)
+<!-- - My CRUD (more details soon, with appropriate links) -->
 
 <!---
 shioheii/shioheii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
