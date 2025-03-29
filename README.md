@@ -1,22 +1,54 @@
-# Hi, I'm Bruno Shiohei 😎
-<a alt="Bruno Shiohei Kinoshita do Nascimento Linkedin" href="https://www.linkedin.com/in/bruno-shiohei/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
-</a><br />
+<h1 align="center">Hi! I'm Bruno Shiohei 👋</h1>
+<h3 align="center">A passionate software development student.</h3><br>
 
-🖥️ Studying computer technician, seeking more knowledge and advances in the area.
+- 💻 Currently working with **Web Applications**
+- 📖 Junior **Developer**, always learning and evolving
+- 🎯 Focus on **automation, monitoring, and data analysis**
+- 🔧 Tools: **Vue, Ruby on Rails, PostgreSQL, Docker, AWS**
+- 💡 **Passionate** about solving problems with code!
 
-## Projects of my technical course
-- In my first year of the course I will have to develop 4 projects, and I will share them on the following repository: [Projects - First Year](https://github.com/shioheii/projects-1st-year)
-- At README.md you will find more detailed information about each project, and a link that will send you to the project proposal and its code.
-- Language used: C++
+## Skills
+<div style="flex-basis: 48%;">
+  <h3>💻 Programming Languages</h3>
+  <img align="center" src="https://skillicons.dev/icons?i=js" />
+  <img align="center" src="https://skillicons.dev/icons?i=ruby" />
+  <img align="center" src="https://skillicons.dev/icons?i=php" />
+  <img align="center" src="https://skillicons.dev/icons?i=java" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=python" />
+  <img align="center" src="https://skillicons.dev/icons?i=cs">   
+</div>
 
-## Extra activities
-- [e-diaristas](https://github.com/shioheii/ediaristas) - You can find more details at README.md.
-- [Shioheify](https://github.com/shioheii/Shioheify) - You can find more details at README.md.
-- [Logic challenge](https://github.com/shioheii/Desafio-de-Logica) - You can find more details at README.md. 
-<!-- - My CRUD (more details soon, with appropriate links) -->
 
-<!---
-shioheii/shioheii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div style="flex-basis: 48%;">
+   <h3>🎲 Server-side</h3>
+   <img align="center" src="https://skillicons.dev/icons?i=mysql" />
+   <img align="center" src="https://skillicons.dev/icons?i=postgresql" />
+   <img align="center" src="https://skillicons.dev/icons?i=docker" />
+   <img align="center" src="https://skillicons.dev/icons?i=jenkins" />
+   <img align="center" src="https://skillicons.dev/icons?i=aws" />
+</div>
+
+<div style="flex-basis: 48%;">
+  <h3>📚 Libraries & frameworks</h3>
+  <img align="center" src="https://skillicons.dev/icons?i=vue" />
+  <img align="center" src="https://skillicons.dev/icons?i=rails" />
+  <img align="center" src="https://skillicons.dev/icons?i=react" />
+  <img align="center" src="https://skillicons.dev/icons?i=typescript" />
+  <img align="center" src="https://skillicons.dev/icons?i=nodejs" />
+</div>
+
+<div style="flex-basis: 48%;">
+  <h3>🔨 Tools & Other</h3>
+  <img align="center" src="https://skillicons.dev/icons?i=postman" />
+  <img align="center" src="https://skillicons.dev/icons?i=git" />
+  <img align="center" src="https://skillicons.dev/icons?i=github" />
+  <img align="center" src="https://skillicons.dev/icons?i=linux" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
+</div>
+
+## Where find me?
+<p align="left">
+    <a href="https://www.linkedin.com/in/bruno-shiohei/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+  
+<br>
