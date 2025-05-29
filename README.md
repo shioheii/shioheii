@@ -12,10 +12,10 @@
   <h3>💻 Programming Languages</h3>
   <img align="center" src="https://skillicons.dev/icons?i=js" />
   <img align="center" src="https://skillicons.dev/icons?i=ruby" />
-  <img align="center" src="https://skillicons.dev/icons?i=php" />
+<!--   <img align="center" src="https://skillicons.dev/icons?i=php" />
   <img align="center" src="https://skillicons.dev/icons?i=java" /> 
   <img align="center" src="https://skillicons.dev/icons?i=python" />
-  <img align="center" src="https://skillicons.dev/icons?i=cs">   
+  <img align="center" src="https://skillicons.dev/icons?i=cs">    -->
 </div>
 
 
