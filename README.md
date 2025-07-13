@@ -24,7 +24,7 @@
    <img align="center" src="https://skillicons.dev/icons?i=mysql" />
    <img align="center" src="https://skillicons.dev/icons?i=postgresql" />
    <img align="center" src="https://skillicons.dev/icons?i=docker" />
-   <img align="center" src="https://skillicons.dev/icons?i=jenkins" />
+<!--    <img align="center" src="https://skillicons.dev/icons?i=jenkins" /> -->
    <img align="center" src="https://skillicons.dev/icons?i=aws" />
 </div>
 
@@ -32,14 +32,14 @@
   <h3>📚 Libraries & frameworks</h3>
   <img align="center" src="https://skillicons.dev/icons?i=vue" />
   <img align="center" src="https://skillicons.dev/icons?i=rails" />
-  <img align="center" src="https://skillicons.dev/icons?i=react" />
-  <img align="center" src="https://skillicons.dev/icons?i=typescript" />
+<!--   <img align="center" src="https://skillicons.dev/icons?i=react" />
+  <img align="center" src="https://skillicons.dev/icons?i=typescript" /> -->
   <img align="center" src="https://skillicons.dev/icons?i=nodejs" />
 </div>
 
 <div style="flex-basis: 48%;">
   <h3>🔨 Tools & Other</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=postman" />
+<!--   <img align="center" src="https://skillicons.dev/icons?i=postman" /> -->
   <img align="center" src="https://skillicons.dev/icons?i=git" />
   <img align="center" src="https://skillicons.dev/icons?i=github" />
   <img align="center" src="https://skillicons.dev/icons?i=linux" />
