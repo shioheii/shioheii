@@ -4,6 +4,7 @@
 ## Skills
 <div style="flex-basis: 48%;">
   <img align="center" src="https://skillicons.dev/icons?i=js" />
+  <img align="center" src="https://skills.syvixor.com/api/icons?i=n8n" />
   <img align="center" src="https://skillicons.dev/icons?i=nodejs" />
   <img align="center" src="https://skillicons.dev/icons?i=vue" />  
   <img align="center" src="https://skillicons.dev/icons?i=ruby" />
